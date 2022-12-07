@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @mkyxm aka mika
-- 👀 I’m interested in.. uhm... everything connected to media design since im a md student
-- 🌱 I’m currently learning how to code, but im still far from being good at it 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... best way would be over instagram @mkyxm
+Hi, I’m @mkyxm aka mika
 
-<!---
-mkyxm/mkyxm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--
+<br>
+Michaela Kappes — Freelancer  |  Media Designer
+<br>
+e-mail kappes.michaela@gmx.de   |  web mkyxm.github.io
+<br>
+phone +49 157 763 958 24
+<br>
+_____
+☣
+<br>
+<br>
+WELCOME TO MY DIGITAL SPACE
+<br>
+linktr.ee/mkyxm
+<br>
+_____
